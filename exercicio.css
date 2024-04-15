@@ -1,0 +1,14 @@
+main{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(43, 72, 238);
+    margin: auto;
+    color: white;
+    padding: 50px;
+    box-sizing: border-box;
+    text-align: center;
+}
+h1{
+    border: 10px solid #fff;
+    border-radius: 60px;
+}
